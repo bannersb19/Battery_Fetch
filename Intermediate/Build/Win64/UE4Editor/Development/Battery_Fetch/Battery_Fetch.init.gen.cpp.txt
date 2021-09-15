@@ -1,0 +1,3 @@
+C:\Unreal Engine (C++)\Battery_Fetch\Intermediate\Build\Win64\UE4Editor\Development\Battery_Fetch\Definitions.Battery_Fetch.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

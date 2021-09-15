@@ -1,0 +1,20 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Battery_Fetch-0767.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Unreal Engine (C++)\Battery_Fetch\Intermediate\Build\Win64\Battery_FetchEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Unreal Engine (C++)\Battery_Fetch\Intermediate\Build\Win64\UE4Editor\Development\Battery_Fetch\BatteryMAN.cpp.obj"
+"C:\Unreal Engine (C++)\Battery_Fetch\Intermediate\Build\Win64\UE4Editor\Development\Battery_Fetch\Battery_Fetch.cpp.obj"
+"C:\Unreal Engine (C++)\Battery_Fetch\Intermediate\Build\Win64\UE4Editor\Development\Battery_Fetch\Battery_FetchCharacter.cpp.obj"
+"C:\Unreal Engine (C++)\Battery_Fetch\Intermediate\Build\Win64\UE4Editor\Development\Battery_Fetch\Battery_FetchGameMode.cpp.obj"
+"C:\Unreal Engine (C++)\Battery_Fetch\Intermediate\Build\Win64\UE4Editor\Development\Battery_Fetch\BatteryMAN.gen.cpp.obj"
+"C:\Unreal Engine (C++)\Battery_Fetch\Intermediate\Build\Win64\UE4Editor\Development\Battery_Fetch\Battery_Fetch.init.gen.cpp.obj"
+"C:\Unreal Engine (C++)\Battery_Fetch\Intermediate\Build\Win64\UE4Editor\Development\Battery_Fetch\Battery_FetchCharacter.gen.cpp.obj"
+"C:\Unreal Engine (C++)\Battery_Fetch\Intermediate\Build\Win64\UE4Editor\Development\Battery_Fetch\Battery_FetchGameMode.gen.cpp.obj"
+"C:\Unreal Engine (C++)\Battery_Fetch\Intermediate\Build\Win64\UE4Editor\Development\Battery_Fetch\Default.rc2.res"
+/OUT:"C:\Unreal Engine (C++)\Battery_Fetch\Intermediate\Build\Win64\UE4Editor\Development\Battery_Fetch\UE4Editor-Battery_Fetch-0767.lib"
+/INCLUDE:IMPLEMENT_MODULE_Battery_Fetch

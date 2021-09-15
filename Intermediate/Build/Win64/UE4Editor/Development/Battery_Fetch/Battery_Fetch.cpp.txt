@@ -1,0 +1,2 @@
+C:\Unreal Engine (C++)\Battery_Fetch\Intermediate\Build\Win64\UE4Editor\Development\Battery_Fetch\Definitions.Battery_Fetch.h
+C:\Unreal Engine (C++)\Battery_Fetch\Source\Battery_Fetch\Battery_Fetch.h

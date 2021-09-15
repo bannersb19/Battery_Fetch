@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Unreal Engine (C++)\\Battery_Fetch\\Source\\Battery_Fetch\\Battery_Fetch.Build.cs",
+		"C:\\Unreal Engine (C++)\\Battery_Fetch\\Source\\Battery_Fetch.Target.cs",
+		"C:\\Unreal Engine (C++)\\Battery_Fetch\\Source\\Battery_FetchEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}
